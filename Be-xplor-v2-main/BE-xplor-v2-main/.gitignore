@@ -1,0 +1,14 @@
+venv/
+*__pycache__
+alembic/versions/*
+app/env.py
+.vscode/
+
+
+# Logs
+*.log
+*.out
+
+#Zip files
+*.gz
+*.tar
